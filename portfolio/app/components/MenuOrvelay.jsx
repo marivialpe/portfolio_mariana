@@ -8,7 +8,6 @@ const MenuOrvelay = ({ links }) => {
             <li key={index}>
             <NavLink href={link.path} title={link.title}/>
             </li>
-
         )
       )
     }

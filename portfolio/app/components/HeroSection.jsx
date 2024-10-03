@@ -30,7 +30,7 @@ export const HeroSection = () => {
     {/*Animação*/}
             </h1>
             <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-              Desenvolvedora front-end, cursando Sistemas de Informação atualmente no 5º periodo.
+              Desenvolvedora front-end, cursando Sistemas de Informação atualmente no 6º periodo.
               Tenho como objetivo ser capaz de crescer na área e melhorar como profissional.
             </p>
             <div>
